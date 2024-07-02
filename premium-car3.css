@@ -1,0 +1,21 @@
+header{
+    padding: 10px;
+    text-align: center;
+    background-color: darkblue;
+}
+li{
+    text-align: center;
+    display: inline;
+    padding: 15px;
+    margin: 1px;
+}
+h1{
+    color: red;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+strong{
+    color: red;
+}
+main{
+    text-align: center;
+}
